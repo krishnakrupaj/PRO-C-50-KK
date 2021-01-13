@@ -1,0 +1,28 @@
+h1{
+    color:darkblue
+}
+
+.header{
+    background-color:lightskyblue;
+    display:flex;
+    justify-content: space-evenly
+}
+h3,h2{
+    text-align: center;
+    color: rgb(164, 13, 184);
+}
+.kk1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.au{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between ;
+}
+.fua{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}

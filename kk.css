@@ -1,0 +1,28 @@
+h1{
+    color: darkblue  
+}
+
+
+.header{
+    text-align: center;
+    background-color:lightblue;
+}
+h3{
+    text-align: left;
+    color: ndarkcya;
+}
+.p{
+    background-color: darksalmon;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between ;
+}
+h4{
+    color: darkred;
+}
+.fua{
+    background-color: lightcoral;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
